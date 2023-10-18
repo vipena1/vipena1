@@ -22,7 +22,7 @@
 
  
 
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=vipena1&show_icons=true&theme=radical)
+![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=vipena1&show_icons=true&theme=radical)
 
  
 
