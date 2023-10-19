@@ -56,8 +56,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vipena1&layout=compact)
 
- 
-
- 
-
-Aprendendo e evoluindo sempre!
